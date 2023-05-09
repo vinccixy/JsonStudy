@@ -1,0 +1,13 @@
+D:\个人\Study\JsonStudy\JsonKearn\bin\Debug\JsonKearn.exe.config
+D:\个人\Study\JsonStudy\JsonKearn\bin\Debug\JsonKearn.exe
+D:\个人\Study\JsonStudy\JsonKearn\bin\Debug\JsonKearn.pdb
+D:\个人\Study\JsonStudy\JsonKearn\bin\Debug\Newtonsoft.Json.dll
+D:\个人\Study\JsonStudy\JsonKearn\obj\Debug\JsonKearn.csproj.AssemblyReference.cache
+D:\个人\Study\JsonStudy\JsonKearn\obj\Debug\JsonKearn.csproj.SuggestedBindingRedirects.cache
+D:\个人\Study\JsonStudy\JsonKearn\obj\Debug\JsonKearn.Form1.resources
+D:\个人\Study\JsonStudy\JsonKearn\obj\Debug\JsonKearn.Properties.Resources.resources
+D:\个人\Study\JsonStudy\JsonKearn\obj\Debug\JsonKearn.csproj.GenerateResource.cache
+D:\个人\Study\JsonStudy\JsonKearn\obj\Debug\JsonKearn.csproj.CoreCompileInputs.cache
+D:\个人\Study\JsonStudy\JsonKearn\obj\Debug\JsonKearn.csproj.CopyComplete
+D:\个人\Study\JsonStudy\JsonKearn\obj\Debug\JsonKearn.exe
+D:\个人\Study\JsonStudy\JsonKearn\obj\Debug\JsonKearn.pdb
